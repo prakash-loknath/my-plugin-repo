@@ -9,8 +9,12 @@
     {
       "name": "my-plugin-repo",
       "description": "Python-powered workflow commands for the team",
-      "source": "https://github.com/prakash-loknath/my-plugin-repo.git",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "source": {
+        "type": "github",
+        "repo": "prakash-loknath/my-plugin-repo",
+        "branch": "main"
+      }
     }
   ]
 }
