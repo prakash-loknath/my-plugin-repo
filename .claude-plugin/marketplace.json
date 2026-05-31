@@ -1,9 +1,16 @@
 {
-  "name": "My Plugin Repo",
-  "description": "Description of your plugin marketplace",
+  "name": "loknath-team-marketplace",
+  "description": "Internal plugin marketplace for loknath team",
   "owner": {
     "name": "prakash-loknath",
     "url": "https://github.com/prakash-loknath"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "my-plugin-repo",
+      "description": "Python-powered workflow commands for the team",
+      "source": "loknath/my-plugin-repo",
+      "version": "1.0.0"
+    }
+  ]
 }
