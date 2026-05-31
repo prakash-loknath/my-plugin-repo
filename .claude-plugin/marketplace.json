@@ -9,7 +9,7 @@
     {
       "name": "my-plugin-repo",
       "description": "Python-powered workflow commands for the team",
-      "source": "loknath/my-plugin-repo",
+      "source": "https://github.com/prakash-loknath/my-plugin-repo.git",
       "version": "1.0.0"
     }
   ]
