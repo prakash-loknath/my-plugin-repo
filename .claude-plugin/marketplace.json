@@ -1,5 +1,7 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "loknath-team-marketplace",
+  "version": "1.0.0",
   "owner": {
     "name": "prakash-loknath"
   },
@@ -7,7 +9,7 @@
     {
       "name": "my-plugin-repo",
       "description": "Team plugin with Python-powered slash commands",
-      "source": "."
+      "source": "./plugins/my-plugin-repo"
     }
   ]
 }
