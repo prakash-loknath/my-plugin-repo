@@ -1,16 +1,13 @@
 {
   "name": "loknath-team-marketplace",
-  "description": "Internal plugin marketplace for loknath team",
   "owner": {
-    "name": "prakash-loknath",
-    "url": "https://github.com/prakash-loknath"
+    "name": "prakash-loknath"
   },
   "plugins": [
     {
       "name": "my-plugin-repo",
-      "description": "Python-powered workflow commands for the team",
-      "version": "1.0.0",
-      "source": "https://github.com/prakash-loknath/my-plugin-repo.git"
+      "description": "Team plugin with Python-powered slash commands",
+      "source": "."
     }
   ]
 }
