@@ -1,0 +1,7 @@
+{
+  "name": "my-plugin-repo",
+  "version": "1.0.0",
+  "description": "Team plugin with Python-powered slash commands",
+  "author": "loknath",
+  "commands": ["commands/thenew.md"]
+}
