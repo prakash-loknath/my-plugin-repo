@@ -10,7 +10,7 @@ Arguments received: $ARGUMENTS
 
 Execute the following Python script with those arguments and display the result:
 
-!`python3 ~/.claude/plugins/my-plugin-repo/scripts/thenew.py $ARGUMENTS`
+!`python3 ~/.claude/plugins/marketplaces/loknath-team-marketplace/plugins/my-plugin-repo/scripts/thenew.py $ARGUMENTS`
 
 After running:
 1. Display the full output clearly
